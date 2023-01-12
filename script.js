@@ -1,3 +1,3 @@
 function visitPage() {
-    window.location = "http://facebook.com/profile.php?=73322363";
+    window.location = "https://www.youtube.com/watch?v=jKmuDUfPMxg";
 }
